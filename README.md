@@ -1,22 +1,15 @@
 # Demir Topaktaş
 
-Software engineer. I spend most of my time on **TypeScript**, **GIS**, **WebGL**, and **3D visualization**.
+Software engineer in Ankara. I spend most of my time on **TypeScript**, **GIS**, **WebGL**, and **3D visualization**, on geospatial software: web maps, 3D views, and the TypeScript that holds them together.
 
-I care less about collecting tools than about making spatial software honest: coordinates that mean what they claim, scenes that can be picked, and pictures that still behave like data.
+If you are hiring for GIS, visualization, or graphics-adjacent frontend work, I am interested in talking.
 
 ## What you will find here
 
 Most of my GIS and TypeScript work sits in professional code, so this profile is small on purpose.
 
-- [webglplayground](https://github.com/demode29/webglplayground) — public notes on WebGL and 3D, written to understand the pipeline rather than to ship a viewer.
-
-I would rather show one unfinished investigation than a row of tutorials that do not match the work I actually do.
-
-## Currently
-
-Based in Ankara. Working on geospatial software: web maps, 3D views, and the TypeScript that holds them together. Playing bass when the screen has had enough of me.
-
-If you are hiring for GIS, visualization, or graphics-adjacent frontend work, I am interested in talking.
+- [webglplayground](https://github.com/demode29/webglplayground) — 3D graphics learning series. I implement the studies myself.
+- [tiny-vector-renderer](https://github.com/demode29/webglplayground/tree/main/tiny-vector-renderer) — MVT → WASM → WebGL.
 
 ## Four strings
 
