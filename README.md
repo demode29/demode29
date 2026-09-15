@@ -27,6 +27,7 @@ Bass is listening with your hands: time, weight, and the space between notes. A 
 </p>
 
 <p align="center">
-  <img src="assets/scope-dark.svg#gh-dark-mode-only" alt="Four-channel oscilloscope of open bass strings E, A, D, and G" width="100%">
-  <img src="assets/scope-light.svg#gh-light-mode-only" alt="Four-channel oscilloscope of open bass strings E, A, D, and G" width="100%">
+  <a href="https://demode29.github.io/demode29/">
+    <img src="assets/strings-still.png" alt="WebGL scene of open bass strings E A D G. Click through to pluck a string." width="100%">
+  </a>
 </p>
