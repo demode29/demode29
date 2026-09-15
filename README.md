@@ -9,7 +9,6 @@ If you are hiring for GIS, visualization, or graphics-adjacent frontend work, I 
 Most of my GIS and TypeScript work sits in professional code, so this profile is small on purpose.
 
 - [webglplayground](https://github.com/demode29/webglplayground) — 3D graphics learning series. I implement the studies myself.
-- [tiny-vector-renderer](https://github.com/demode29/webglplayground/tree/main/tiny-vector-renderer) — MVT → WASM → WebGL.
 
 ## Four strings
 
