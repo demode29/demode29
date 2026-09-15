@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="assets/scope-dark.svg#gh-dark-mode-only" alt="Four-channel oscilloscope of open bass strings E, A, D, and G" width="100%">
+  <img src="assets/scope-light.svg#gh-light-mode-only" alt="Four-channel oscilloscope of open bass strings E, A, D, and G" width="100%">
+</p>
+
 # Demir Topaktaş
 
-Software engineer. I spend most of my time on **TypeScript**, **GIS**, **WebGL**, and **3D visualization**.
+Software engineer, and a bassist. I spend most of my time on **TypeScript**, **GIS**, **WebGL**, and **3D visualization**. The rest of it is on four strings.
 
 I care less about collecting tools than about making spatial software honest: coordinates that mean what they claim, scenes that can be picked, and pictures that still behave like data.
 
@@ -14,6 +19,10 @@ I care less about collecting tools than about making spatial software honest: co
 
 **Visualization should survive contact with the user.** A scene that cannot be queried is a poster. I am more interested in the loop where someone points at the world and the software can answer.
 
+## Four strings
+
+Bass is listening with your hands: time, weight, and the space between notes. A good line is the same kind of problem as a good scene — you only add what the room still needs. I am not interested in playing a lot of notes. I am interested in the ones that hold the picture up.
+
 ## What you will find here
 
 Most of my GIS and TypeScript work sits in professional code, so this profile is small on purpose.
@@ -24,6 +33,6 @@ I would rather show one unfinished investigation than a row of tutorials that do
 
 ## Currently
 
-Based in Ankara. Working on geospatial software: web maps, 3D views, and the TypeScript that holds them together.
+Based in Ankara. Working on geospatial software: web maps, 3D views, and the TypeScript that holds them together. Playing bass when the screen has had enough of me.
 
 If you are hiring for GIS, visualization, or graphics-adjacent frontend work, I am interested in talking.
