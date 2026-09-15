@@ -2,7 +2,7 @@
 
 Software engineer in Ankara. I spend most of my time on **TypeScript**, **GIS**, **WebGL**, and **3D visualization**, on geospatial software: web maps, 3D views, and the TypeScript that holds them together.
 
-If you are hiring for GIS, visualization, or graphics-adjacent frontend work, I am interested in talking.
+If you are hiring for GIS, visualization, or graphics-adjacent work, I am interested in talking.
 
 ## What you will find here
 
